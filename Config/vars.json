@@ -1,0 +1,8 @@
+{
+	"path":"./sfdx/objects",
+	"project-name":"ProjectName",
+	"project-database":"Salesforce Database",
+	"project-description-path":"./notes.md",
+	"sfdx-pull":"false",
+	"sfdx-alias":"myalias"
+}
